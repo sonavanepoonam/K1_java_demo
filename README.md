@@ -4,4 +4,4 @@
 - css
 - Bootstrap 5
 
-![alt text](image-2.png)
+![alt text](./image-2.png)
